@@ -1,0 +1,8 @@
+body {
+    font-family: 'Space Mono', monospace;
+}
+
+.center-div {
+     margin: 0 auto;
+     width: 10%;
+}
