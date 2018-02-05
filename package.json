@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "static personal website",
   "main": "index.js",
-  "scripts": {
-      "start": "node index.js"
-  },
+  "scripts": {},
   "author": "Austin Yearly Kim",
   "license": "ISC",
   "dependencies": {
