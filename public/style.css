@@ -1,8 +1,10 @@
-body {
+html, body {
     font-family: 'Space Mono', monospace;
+    margin: 0;
+    height: 100%;
+    overflow: hidden
 }
 
-.center-div {
-     margin: 0 auto;
-     width: 10%;
+#small {
+    font-size: .1em;
 }
