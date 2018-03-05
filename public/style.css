@@ -8,3 +8,8 @@ html, body {
 #small {
     font-size: .5em;
 }
+
+canvas {
+    position: absolute;
+    top: 7em;
+}
